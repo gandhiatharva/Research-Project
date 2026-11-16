@@ -2,15 +2,6 @@
 
 **Adversarially Robust Detection and Localization of Tampered PDF Documents via Compression-Consistency Analysis**
 
-B.Tech Major Project · Department of Computer Science & Engineering · Delhi Technological University
-
-**Group 33:** Atharva Gandhi (23/CS/95) · Daksh Sikri (23/CS/116) · Devansh Soni (23/CS/124)
-**Guide:** Dr. Gunjan Chugh
-
-> **Status (November 2026):** all experiments so far are on the **development set** (403 documents never used for training). The final held-out test set has not been built yet. Numbers below may change.
-
----
-
 ## The problem
 
 Someone opens a genuine PDF (a salary slip, a grade sheet, an invoice), changes one number, and saves it. The file opens normally, the new digit is drawn by the same font in the same place, and nothing looks wrong. The person checking it usually has **only the file**: no original to compare with and no digital signature.
